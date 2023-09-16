@@ -37,7 +37,7 @@
 }
 
 .info{
-    margin: 30px;
+    margin: 50px;
     display: grid;
     grid-template-columns: 1fr 1fr;
     border: 15 px ;
@@ -63,11 +63,13 @@ p {
 }
 
 .tabl{
+    height: 40px;
     background: fixed;
     background-color: blueviolet;
     color: white;
     font-size: small;
-    border-radius: 15px;
+    border-radius: 5px;
+    margin-top: 60px;
 }
 
 .text{
@@ -77,6 +79,19 @@ p {
 .tehno{
     display: flex;
     align-items: center;
-    justify-content: space-between
+    justify-content: space-between;
+    text-align: center;
+
+
 }
 
+.tech{
+    margin-top: 30px;
+}
+
+.tete{
+    display: flex;
+    text-align: center;
+    justify-content: space-between
+
+}
