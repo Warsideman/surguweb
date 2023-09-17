@@ -77,6 +77,38 @@ p {
 .tehno{
     display: flex;
     align-items: center;
-    justify-content: space-between
+    justify-content: space-between;
+    text-align: center;
+}
+
+.tech{
+    margin-top: 30px;
+}
+
+.tehnoclas{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.image_it{
+    width: 100px;
+    height: 100px;
+}
+
+.forma{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100px;
+}
+
+.tabl1{
+    margin-top: 50px;
+    background: fixed;
+    background-color: blueviolet;
+    color: white;
+    font-size: small;
+    border-radius: 15px;
 }
 
